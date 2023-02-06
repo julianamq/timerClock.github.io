@@ -7,4 +7,4 @@ A função timeClock é chamada para exibir a hora atual. Ela recupera a hora, m
 O método setInterval é usado para atualizar a hora a cada 1000 milissegundos, ou seja, a cada segundo. Dessa forma, a hora exibida será sempre atualizada e precisa.
 
 Instalação
-Para usar este projeto, basta clonar ou fazer o download deste repositório para o seu computador. Em seguida, basta abrir o arquivo HTML em um navegador para ver o relógio de tempo funcionando.
+Para usar este projeto, basta clonar ou fazer o download deste repositório para o seu computador. Em seguida, basta abrir o arquivo HTML em um navegador para ver o relógio de tempo funcionando ou poderá acessar a página :https://julianamq.github.io/timerClock.github.io/
